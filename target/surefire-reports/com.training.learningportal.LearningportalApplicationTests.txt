@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.training.learningportal.LearningportalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.120 s -- in com.training.learningportal.LearningportalApplicationTests
